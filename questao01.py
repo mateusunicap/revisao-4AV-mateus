@@ -10,3 +10,5 @@ def maior(* numeros):
 
 maior(1, 2, 3, 4)
 maior(100, 2)
+
+print('Hello World')
